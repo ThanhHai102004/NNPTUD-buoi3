@@ -1,1 +1,2 @@
-# NNPTUD-buoi3
+Ho va ten: Nguyễn Thanh Hải
+Mssv 2280606915
